@@ -1214,6 +1214,13 @@ RS品番885-1171</description>
 <label x="43.18" y="-17.78" size="1.778" layer="95"/>
 </segment>
 </net>
+<net name="DIR" class="3">
+<segment>
+<pinref part="MCU1" gate="G$1" pin="PB1"/>
+<wire x1="55.88" y1="45.72" x2="50.8" y2="45.72" width="0.1524" layer="91"/>
+<label x="50.8" y="45.72" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
 </nets>
 </sheet>
 <sheet>
